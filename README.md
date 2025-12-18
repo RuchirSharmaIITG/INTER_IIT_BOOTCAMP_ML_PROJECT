@@ -8,7 +8,7 @@ It leverages a sophisticated memory system to deliver a persistent and coherent 
 
 ---
 
-### ## Key Features
+### Key Features
 
 * **Dynamic Narrative Generation:** Uses the Groq API with Llama 3.1 for fast and creative storytelling.
 * **Multi-Layered Memory System:**
@@ -20,7 +20,7 @@ It leverages a sophisticated memory system to deliver a persistent and coherent 
 
 ---
 
-### ## Tech Stack
+### Tech Stack
 
 * **Language:** Python
 * **LLM Provider:** Groq (using Llama 3.1)
@@ -29,7 +29,7 @@ It leverages a sophisticated memory system to deliver a persistent and coherent 
 
 ---
 
-### ## Setup & Installation
+### Setup & Installation
 
 1.  **Clone the repository:**
     ```bash
@@ -60,7 +60,7 @@ It leverages a sophisticated memory system to deliver a persistent and coherent 
 
 ---
 
-### ## How to Run
+### How to Run
 
 Execute the `main.py` script from your terminal:
 ```bash
