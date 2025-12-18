@@ -63,5 +63,11 @@ It leverages a sophisticated memory system to deliver a persistent and coherent 
 ### How to Run
 
 Execute the `main.py` script from your terminal:
+
 ```bash
 python main.py
+```
+
+## 📬 Contact
+
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ruchir-sharma-243a10337/)
